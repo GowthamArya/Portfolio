@@ -34,7 +34,7 @@ locoScroll();
 
 var projectsList = [
     {
-        img:"./images/farmerspalm.gif",
+        img:"./images/farmersPalm.gif",
         heading:"Farmers Plam",
         para:"A shopping created with ReactJS and Express",
         tags:"#ReactJS #TailWind #Express #NodeJS #Redux #cookies #Mongo",
